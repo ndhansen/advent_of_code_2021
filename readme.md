@@ -1,0 +1,1 @@
+Not going for efficient. Or nice. Just want to keep solving them for as many days as possible, even if I know there are more efficient solutions that I could go for.
